@@ -2,7 +2,7 @@
   Desafio Backend: Senha Segura
 </h2>
 
-Resolução do desafio proposto [neste link](https://github.com/backend-br/desafios/blob/master/secure-password/PROBLEM.md).
+Resolução do desafio proposto pelo repositorio Backend Brasil, confira detalhes [neste link](https://github.com/backend-br/desafios/blob/master/secure-password/PROBLEM.md).
 
 [Se inscreva em nosso canal no Youtube!](https://www.youtube.com/@buildrun-tech?sub_confirmation=1)
 
