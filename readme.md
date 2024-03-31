@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
   Desafio Backend: Senha Segura
-</h3>
+</h2>
 
 Resolução do desafio proposto [neste link](https://github.com/backend-br/desafios/blob/master/secure-password/PROBLEM.md).
 
